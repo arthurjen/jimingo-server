@@ -1,0 +1,23 @@
+{
+  "name": "jimingo-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurjen/jimingo-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurjen/jimingo-server/issues"
+  },
+  "homepage": "https://github.com/arthurjen/jimingo-server#readme",
+  "dependencies": {
+    "eslint": "^5.0.1",
+    "firebase": "^5.2.0"
+  }
+}
